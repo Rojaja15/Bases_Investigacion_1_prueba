@@ -300,11 +300,11 @@ Luego vuelva a ejecutar los dos notebooks en orden.
 
 | Nombre | Carnet |
 |---|---|
-| [Carlos Armando Soto Monge] | [Carnet] | 
-| [Ericka Marisol Quesada Madrigal] | [Carnet] | 
-| [Evelio De Los Ángeles Chinchilla Rosales] | [Carnet] |
-| [Gustavo Jhosua Vargas Viales] | [Carnet] |
-| [Rodrigo Javier Gutiérrez Calderón] | [Carnet] |
+| Carlos Armando Soto Monge | [Carnet] | 
+| Ericka Marisol Quesada Madrigal | [Carnet] | 
+| Evelio De Los Ángeles Chinchilla Rosales | [Carnet] |
+| Gustavo Jhosua Vargas Viales | [Carnet] |
+| Rodrigo Javier Gutiérrez Calderón | [Carnet] |
 
 ## 14. Referencias
 
