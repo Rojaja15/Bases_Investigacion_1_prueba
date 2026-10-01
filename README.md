@@ -299,7 +299,7 @@ Luego vuelva a ejecutar los dos notebooks en orden.
 ## 13. Integrantes
 
 | Nombre | Carnet |
-|---|---|---|
+|---|---|
 | [Carlos Armando Soto Monge] | [Carnet] | 
 | [Ericka Marisol Quesada Madrigal] | [Carnet] | 
 | [Evelio De Los Ángeles Chinchilla Rosales] | [Carnet] |
